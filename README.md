@@ -54,5 +54,7 @@
 - [N4seR7](https://github.com/N4seR7)
 
 ---
-
+### العرض التقديمي ومقطع التجريبي لوجهة
+[الرابط](https://drive.google.com/drive/folders/1mWJtukpGMdmcgrPp-Z9znuqdvYwRzkho?usp=share_link)
+---
 **ملاحظة:** ستتحدث هذه الوثيقة مع تقدم المشروع وإضافة ميزات جديدة. نرحب بملاحظاتكم واقتراحاتكم لتحسين النظام وجعله أكثر فائدة للمستخدمين.
